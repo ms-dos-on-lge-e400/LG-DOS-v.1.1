@@ -1,2 +1,2 @@
-# MS-DOS-v.1.1
-Microsoft DOS v.1.1 — (Source Codes)
+# LG-DOS-v.1.1
+LG DOS v.1.1 — (Source Codes)
